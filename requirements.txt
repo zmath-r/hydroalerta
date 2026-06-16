@@ -1,3 +1,7 @@
 streamlit
 pandas
 requests
+xml.etree.ElementTree
+sqlite3
+math
+
